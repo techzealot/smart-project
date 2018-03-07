@@ -1,0 +1,40 @@
+# smart-project
+A standard java admin system with most useful modules built by springboot.
+# Modules Plan
+1. Cache
+1.2 two-level cache
+2. security
+2.1 spring security
+2.2 oauth+sso
+2.3 spring session
+2.4 jwt token
+3. mail
+3.1 jdni session
+3.2 spring-boot-mail
+3.3 template engine:freemarker
+4. validation
+4.1 validation api
+4.2 aspectj
+5. log
+5.1 async logger
+5.2 aop
+5.3 elk stack
+6. third party login
+6.1 QQ
+6.2 weixin
+6.3 github
+6.4 sina
+6.5 app scan qrcode
+7. api
+7.1 auto generator:swagger2
+7.2 autotester
+8.web introspector
+8.1 jmx
+8.2 endpoints collector
+9. monitor
+9.1 web:javamelody
+9.2 jdbc pool:druid
+9.3 thread pool: metrics,jmx
+10. pluggable
+10.1 springboot autoconfigure
+10.2 maven parent mode
