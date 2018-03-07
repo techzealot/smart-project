@@ -41,5 +41,9 @@ A standard java admin system with most useful modules built by springboot.
 11. distribute scheduler   
 11.1 elastic-job   
 11.2 xxl-job   
+12. utils   
+12.1 sequence:sequence   
+12.2 locks,queue...    
+
 
 
