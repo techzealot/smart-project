@@ -1,11 +1,11 @@
 # maven ignore
 target/
 *.jar
-!.mvn/wrapper/*
 *.war
 *.zip
 *.tar
 *.tar.gz
+
 
 ### STS ###
 .apt_generated
@@ -28,3 +28,6 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+/*.cmd
+/mvnw
+/.mvn
