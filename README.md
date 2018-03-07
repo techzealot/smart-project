@@ -1,6 +1,11 @@
 # smart-project
-A standard java admin system with most useful modules built by springboot.
-# Modules Plan
+
+[![Build Status](https://travis-ci.org/alibaba/dubbo.svg?branch=master)](https://travis-ci.org/alibaba/dubbo) 
+[![codecov](https://codecov.io/gh/alibaba/dubbo/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/dubbo)  
+
+A standard java admin system with most useful modules built by springboot.   
+
+## Modules Plan
 1. Cache  
 1.2 two-level cache  
 2. security  
