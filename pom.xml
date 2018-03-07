@@ -62,5 +62,13 @@
 		<module>smart-cache</module>
 		<module>smart-mail</module>
 		<module>smart-validation</module>
+		<module>smart-scheduler</module>
+		<module>smart-support</module>
+		<module>smart-api</module>
+		<module>smart-introspector</module>
+		<module>smart-logger</module>
+		<module>smart-monitor</module>
+		<module>smart-security</module>
+		<module>smart-social</module>
 	</modules>
 </project>
