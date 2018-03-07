@@ -38,4 +38,8 @@ A standard java admin system with most useful modules built by springboot.
 10. pluggable  
 10.1 springboot autoconfigure machinism  
 10.2 maven parent mode  
+11. distribute scheduler   
+11.1 elastic-job   
+11.2 xxl-job   
+
 
