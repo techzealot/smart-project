@@ -40,9 +40,10 @@ A standard java admin system with most useful modules built by springboot.
 8.1 jmx  
 8.2 endpoints collector  
 9. monitor  
-9.1 web:javamelody  
-9.2 jdbc pool:druid  
-9.3 thread pool: metrics,jmx  
+9.1 web:javamelody    
+9.2 jdbc pool:druid    
+9.3 thread pool: metrics,jmx    
+9.4 grafana,influxdb,rrd    
 10. pluggable  
 10.1 springboot autoconfigure machinism  
 10.2 maven parent mode  
@@ -52,6 +53,10 @@ A standard java admin system with most useful modules built by springboot.
 12. utils   
 12.1 sequence:sequence   
 12.2 locks,queue...    
+13. database    
+13.1 distribute transaction
+13.2 sharding-jdbc   
+13.3 mycat   
 
 
 
