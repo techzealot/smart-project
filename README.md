@@ -54,8 +54,8 @@ A standard java admin system with most useful modules built by springboot.
 12.1 sequence:sequence   
 12.2 locks,queue...    
 13. database    
-13.1 distribute transaction
-13.2 sharding-jdbc   
+13.1 distribute transaction   
+13.2 sharding-jdbc    
 13.3 mycat   
 
 
