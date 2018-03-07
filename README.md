@@ -1,7 +1,7 @@
 # smart-project
 
-[![Build Status](https://travis-ci.org/alibaba/dubbo.svg?branch=master)](https://travis-ci.org/alibaba/dubbo) 
-[![codecov](https://codecov.io/gh/alibaba/dubbo/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/dubbo)  
+[![Build Status](https://www.travis-ci.org/techzealot/smart-project.svg?branch=master)](https://www.travis-ci.org/techzealot/smart-project) 
+[![codecov](https://codecov.io/gh/techzealot/smart-project/branch/master/graph/badge.svg)](https://codecov.io/gh/techzealot/smart-project)  
 
 A standard java admin system with most useful modules built by springboot.   
 

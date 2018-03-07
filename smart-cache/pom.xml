@@ -11,9 +11,9 @@
 
 	<parent>
 		<groupId>com.mavis</groupId>
-		<artifactId>smart-parent</artifactId>
+		<artifactId>smart-project</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath>../smart-parent</relativePath>
+		<relativePath>../../smart-project</relativePath>
 	</parent>
 
 	<properties>
