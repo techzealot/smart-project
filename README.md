@@ -7,7 +7,10 @@ A standard java admin system with most useful modules built by springboot.
 
 ## Modules Plan
 1. Cache  
+1.1 spring data redis   
 1.2 two-level cache  
+1.3 cache manager ui    
+1.4 mutiple cache manager     
 2. security  
 2.1 spring security  
 2.2 oauth+sso  
