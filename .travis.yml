@@ -1,13 +1,21 @@
 language: java
-sudo: false # faster builds
 
 jdk:
     - oraclejdk8
     - openjdk8
 
+sudo: required
+
+services:
+  - docker
+
 script:
     - mvn clean package
     - mvn cobertura:cobertura
 
+cache:
+  directories:
+    - $HOME/.m2/repository/
+    
 after_success:
   - bash <(curl -s https://codecov.io/bash)
