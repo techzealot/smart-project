@@ -1,4 +1,4 @@
-package com.mavis.smart;
+package com.mavis.smart.cache;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

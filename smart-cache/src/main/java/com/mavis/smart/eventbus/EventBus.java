@@ -1,6 +1,6 @@
 package com.mavis.smart.eventbus;
 
-public interface DistributeEventbus {
+public interface EventBus {
 	void publish(String topic);
 
 	void publish(String topic, String key);
